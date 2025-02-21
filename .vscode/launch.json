@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpmApplication<spm>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.kimh.spm.SpmApplication",
+            "projectName": "spm",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
